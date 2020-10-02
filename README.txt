@@ -9,7 +9,7 @@ Run instructions:
 
     There are two modules that must be running: WebServer and TaskConsumer. Each
     project has a <module>EntryPoint containing the main program. Configuration
-    is managed by editting the config.json files in the respective resource
+    is managed by editing the config.json files in the respective resource
     directories of the respective modules. The default configuration points at
     localhost for such a Rabbit server.
 
